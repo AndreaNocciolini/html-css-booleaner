@@ -9,3 +9,16 @@
     width: 210px;
     margin-top: 50px;
 }
+
+#title{
+    font-weight: 800;
+    margin-bottom: 0px;
+}
+
+.color-lightgrey{
+    color: lightgrey;
+}
+
+.font-size-small{
+    font-size: small;
+}
