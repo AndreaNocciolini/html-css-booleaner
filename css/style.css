@@ -32,6 +32,10 @@
     background-color: yellow;
 }
 
+.padding-left{
+    padding-left: 15px;
+}
+
 .color-blue{
     background-color: royalblue;
 }
@@ -57,3 +61,16 @@
     width: 300px;
     height: 200px;
 }
+
+table{
+    text-align: left;
+    width: fit-content;
+    height: fit-content;
+}
+
+.empty{
+    width: 300px;
+}
+
+
+
