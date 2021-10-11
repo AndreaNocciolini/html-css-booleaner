@@ -15,7 +15,7 @@
     margin-bottom: 0px;
 }
 
-.color-lightgrey{
+.color-light-grey{
     color: lightgrey;
 }
 
@@ -38,4 +38,21 @@
 
 .color-light-blue{
     background-color: skyblue;
+}
+
+.font-weight-700{
+    font-weight: 700;
+}
+
+.footer-img-1{
+    background-image: url(../img/graph.jpg);
+}
+
+.footer-img-2{
+    background-image: url(../img/monitor.jpg);
+}
+
+.footer-img-size{
+    width: 300px;
+    height: 200px;
 }
